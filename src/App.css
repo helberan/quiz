@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(145, 233, 211);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  height: 500px;
+  align-items: center;
+}
+
+#top {
+  font-size: 13px;
+  margin: 0;
+}
+
+.card {
+  margin: 50px;
+  width: 555px;
+  height: 200px;
+  padding: 10px;
+  background-color: rgb(36, 117, 93);
+  color: aliceblue;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.answers {
+  display: flex;
+  margin: 10px;
+}
+
+.card button {
+  margin: 5px;
+  width: 100px;
+  height: 40px;
+  font-size: 17px;
+  border-radius: 5px;
+  color: aliceblue;
+  background-color: rgb(36, 117, 93);
+}
+
+#znovu-btn {
+  margin: 5px;
+  width: 150px;
+  height: 40px;
+  font-size: 17px;
+  border-radius: 5px;
+  color: aliceblue;
+  background-color: rgb(36, 117, 93);
+}

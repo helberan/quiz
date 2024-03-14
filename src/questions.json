@@ -1,0 +1,36 @@
+[{
+    "questionText" : "Kolik je „tucet“?",
+    "answerOptions" : [
+        {"id" : "00", "answer" : "6", "isCorrect" : false},
+        {"id" : "01", "answer" : "20", "isCorrect" : false},
+        {"id" : "02", "answer" : "12", "isCorrect" : true},
+        {"id" : "03", "answer" : "50", "isCorrect" : false}
+    ]
+},
+{
+    "questionText" : "Jaké je hlavní město Austrálie?",
+    "answerOptions" : [
+        {"id" : "10", "answer" : "Sydney", "isCorrect" : false},
+        {"id" : "11", "answer" : "Canberra", "isCorrect" : true},
+        {"id" : "12", "answer" : "Brisbane", "isCorrect" : false},
+        {"id" : "13", "answer" : "Perth", "isCorrect" : false}
+    ]
+},
+{
+    "questionText" : "Jaká je nejdelší řeka v České republice?",
+    "answerOptions" : [
+        {"id" : "20", "answer" : "Vltava", "isCorrect" : true},
+        {"id" : "21", "answer" : "Labe", "isCorrect" : false},
+        {"id" : "22", "answer" : "Ohře", "isCorrect" : false},
+        {"id" : "23", "answer" : "Sázava", "isCorrect" : false}
+    ]
+},
+{
+    "questionText" : "Co znázorňuje římské číslo ML?",
+    "answerOptions" : [
+        {"id" : "30", "answer" : "5000", "isCorrect" : false},
+        {"id" : "31", "answer" : "1005", "isCorrect" : false},
+        {"id" : "32", "answer" : "1500", "isCorrect" : false},
+        {"id" : "33", "answer" : "1050", "isCorrect" : true}
+    ]
+}]
